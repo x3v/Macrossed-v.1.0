@@ -14,5 +14,3 @@ Things to consider:
 - Hosting for actual webpage. 
 
 Randomization of each song along with text sub and gif image. 
-
-This is a test
